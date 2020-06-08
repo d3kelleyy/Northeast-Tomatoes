@@ -1,0 +1,36 @@
+#form {
+  text-align: center;
+  border: 2px solid red;
+  padding-bottom: 10px;
+  width: 33.3%;
+  margin-left: 33.3%;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 50px;
+}
+
+img {
+  width: 450px;
+  height: 300px;
+  margin: 10px;
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+li {
+  margin: 10px;
+  padding: 10px;
+  list-style: circle;
+}
